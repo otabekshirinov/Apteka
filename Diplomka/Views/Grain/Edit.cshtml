@@ -1,0 +1,32 @@
+﻿@model Diplomka.Models.Grain
+@{
+    ViewBag.Title = "Редактирование данных";
+}
+
+<h3>Изменение данных лекарств</h3>
+
+<form asp-action="Edit" asp-controller="Grain" asp-route-id="@Model.GrainID" enctype="multipart/form-data">
+    <div class="form-group">
+        <label hidden="true" asp-for="GrainID" class="control-label">Id лекарства</label>
+        <input type="number" hidden="true" asp-for="GrainID" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Название лекарства</label>
+        <input type="text" asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label">Цена</label>
+        <input type="text" asp-for="Price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Img" class="control-label">Фото</label>
+        <input type="file" asp-for="Img" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Сохранить" class="btn btn-primary" />
+    </div>
+</form>
+
+<a asp-action="BackToHome" class="btn btn-primary"> Отмена</a>

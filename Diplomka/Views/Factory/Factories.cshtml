@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Diplomka.Models.Factory>
+@{
+    ViewData["Title"] = "Список заказчиков";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Аптеки</title>
+</head>
+
+<body>
+    <h2>Аптеки</h2>
+    @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+    {
+        <h5><a class="btn btn-primary mb-3" asp-action="Create"> Новая аптека</a></h5>
+    }
+
+    <table class="table table-bordered table-primary">
+        <tr>
+            <th>Id аптеки</th>
+            <th>Название</th>
+            <th>Адрес</th>            
+            <th></th>
+            <th></th>
+
+        </tr>
+        @foreach (Factory factory in Model)
+        {
+            <tr bgcolor = "#FFFFFF">
+                <td>@factory.FactoryID</td>
+                <td>@factory.Name</td>
+                <td>@factory.Address</td>    
+                 @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+                {
+                    <td><a class="btn btn-info mb-3" asp-action="Edit" asp-controller="Factory" asp-route-id="@factory.FactoryID">Изменить</a></td>
+                    <td><a class="btn btn-warning mb-3" asp-action="Delete" asp-controller="Factory" asp-route-id="@factory.FactoryID">Удалить</a></td>
+                }  
+                
+            </tr>
+        }      
+    </table>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Diplomka.Models.Depot>
+@{
+    ViewData["Title"] = "Список автобаз";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Автобазы</title>
+</head>
+
+<body>
+    <h2>Автобазы</h2>
+    @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+    {
+        <h5><a class="btn btn-primary mb-3" asp-action="CreateDepot"> Новая автобаза   
+
+        </a><a class="btn btn-primary mb-3" asp-action="Cars">  Машины   
+
+        </a><a class ="btn btn-primary mb-3" asp-action="Drivers">   Водители</a>
+
+        </h5>
+    }
+
+    <table class="table table-bordered table-primary">
+        <tr>
+            <th>Id завода</th>
+            <th>Название</th>
+            <th>Адрес</th>            
+            <th></th>
+            <th></th>
+
+        </tr>
+        @foreach (Depot depot in Model)
+        {
+            <tr bgcolor = "#FFFFFF">
+                <td>@depot.DepotID</td>
+                <td>@depot.Name</td>
+                <td>@depot.Address</td>  
+                @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+                {
+                    <td><a class="btn btn-info mb-3" asp-action="EditDepot" asp-controller="Depot" asp-route-id="@depot.DepotID">Изменить</a></td>
+                    <td><a class="btn btn-warning mb-3" asp-action="DeleteDepot" asp-controller="Depot" asp-route-id="@depot.DepotID">Удалить</a></td>
+                }                
+            </tr>
+        }      
+    </table>
+</body>
+</html>

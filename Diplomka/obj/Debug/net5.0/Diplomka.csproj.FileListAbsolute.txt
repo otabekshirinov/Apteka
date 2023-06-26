@@ -1,0 +1,1253 @@
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\appsettings.json
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.exe
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Applications.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+E:\для учебы\проекты из git\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\appsettings.json
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.exe
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Humanizer.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+E:\Univer\Diplomka-master\Diplomka-master\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.json
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.exe
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Humanizer.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Pack.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.Diplomka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.build.Diplomka.props
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Diplomka.props
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Diplomka.props
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+C:\otabek.shirinov\Univer\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.json
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.exe
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Humanizer.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Pack.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.Diplomka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.build.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+C:\otabek.shirinov\Diplomka\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.json
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.exe
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Humanizer.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Pack.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.Diplomka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.build.Diplomka.props
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Diplomka.props
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Diplomka.props
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+C:\otabek.shirinov\Новая папка\Diplomka\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.json
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.exe
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Humanizer.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Pack.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.Diplomka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.build.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Diplomka.props
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+C:\otabek.shirinov\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\appsettings.json
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.exe
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.deps.json
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.json
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.runtimeconfig.dev.json
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Diplomka.Views.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.AssemblyReference.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfoInputs.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.AssemblyInfo.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CoreCompileInputs.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorAssemblyInfo.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\scopedcss\bundle\Diplomka.styles.css
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Manifest.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\Diplomka.StaticWebAssets.Pack.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.Diplomka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.build.Diplomka.props
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Diplomka.props
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Diplomka.props
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.input.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.TagHelpers.output.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorCoreGenerate.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Applications.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\CreatePlan.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Application\Print2.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Cars.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateCar.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDepot.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\CreateDriver.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteCar.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDepot.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\DeleteDriver.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Depots.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\Drivers.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditCar.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDepot.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Depot\EditDriver.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Create.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Factory\Factories.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Create.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Grains.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Grain\Search.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CargoRemnants.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Create.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\CreateCargoRemnant.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Delete.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\DeleteCargoRemnant.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Edit.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\EditCargoRemnant.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\Warehouse\Warehouses.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.RazorTargetAssemblyInfo.cs
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.Views.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.csproj.CopyComplete
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\refint\Diplomka.dll
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.pdb
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\Diplomka.genruntimeconfig.cache
+C:\Users\Otabek\Desktop\Diplom\Diplomka\Diplomka\Diplomka\obj\Debug\net5.0\ref\Diplomka.dll

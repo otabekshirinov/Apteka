@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Diplomka.Models.Application>
+
+@{
+    ViewData["Title"] = "СписокЗаявок";
+}
+
+<html>
+<head>
+    <title>Заявки</title>
+</head>
+
+<body>
+    <h2>Заявки</h2>
+   
+    </br>
+
+    <table class="table table-bordered table-primary">
+        <tr>
+            
+            <th>Id заказа</th>
+            <th>Заказчик</th>
+            <th>Склад</th>
+            <th>Автобаза</th>
+            <th>Машина</th>
+            <th>Водитель</th>
+    
+           
+        </tr>
+
+        @foreach ( Application application in Model)
+        {
+            <tr bgcolor="#FFFFFF">
+                <td>@application.ApplicationID</td>
+                <td>@application.Factory.Name</td>
+                <td>@application.Warehouse.Name</td>
+                <td>@application.Depot.Name</td>
+                <td>@application.Car.Name</td>
+                <td>@application.Driver.FIO</td>
+                
+
+           
+            @if (Diplomka.Controllers.AccountController.Role == "Планировщик")
+            {
+                    <td><a class="btn btn-info mb-3" asp-action="Delete" asp-controller="Application" asp-route-id="@application.ApplicationID">Отменить</a></td>
+                    <td><a class="btn btn-warning mb-3" asp-action="Edit" asp-controller="Application" asp-route-id="@application.ApplicationID">Изменить</a></td>
+
+                    <td><a class="btn btn-success mb-3" asp-action="Print2" asp-controller="Application" asp-route-id="@application.ApplicationID">Печатать</a></td>
+            }
+            </tr>
+        }
+    </table>
+    </br>
+    @if (Diplomka.Controllers.AccountController.Role == "Планировщик")
+    {
+        <a asp-action="CreatePlan" class="btn btn-primary"> Сформировать план</a>
+
+    }
+
+</body>
+</html>

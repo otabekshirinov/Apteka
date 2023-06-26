@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Diplomka.Models.CargoRemnant>
+@{
+    ViewData["Title"] = "Остатки грузов";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Остатки грузов на складах</title>
+</head>
+
+<body>
+    <h2>Остатки грузов на складах</h2>
+    @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+    {
+        <h5><a class="btn btn-primary mb-3" asp-action="CreateCargoRemnant"> Добавить остатки</a></h5>
+    } 
+    <table class="table table-bordered table-primary">
+        <tr>
+            <th>Название склада</th>
+            <th>Вид лекарство</th>
+            <th>Количество</th>  
+            <th></th>                
+            <th></th>                
+
+        </tr>
+        @foreach (CargoRemnant cargoRemnant in Model)
+        {
+            <tr bgcolor = "#FFFFFF">
+                <td>@cargoRemnant.Warehouse.Name</td>
+                <td>@cargoRemnant.Grain.Name</td>
+                <td>@cargoRemnant.Volume</td>     
+                @if (Diplomka.Controllers.AccountController.Role=="Администратор")
+                {
+                    <td><a class="btn btn-info mb-3" asp-action="EditCargoRemnant" asp-controller="Warehouse" asp-route-id="@cargoRemnant.CargoRemnantID">Изменить</a></td>
+                    <td><a class="btn btn-warning mb-3" asp-action="DeleteCargoRemnant" asp-controller="Warehouse" asp-route-id="@cargoRemnant.CargoRemnantID">Удалить</a></td>
+                } 
+                 
+            </tr>
+        }      
+    </table>
+    </br>
+    </br>
+    <a asp-action="Warehouses" class="btn btn-primary"> Назад</a>
+</body>
+</html>

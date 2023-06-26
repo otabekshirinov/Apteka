@@ -1,0 +1,23 @@
+﻿@using Diplomka.Models
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Данные о пользователе</title>
+</head>
+	<h3>Данные о пользователе</h3>
+	<table class="table">
+    <tr>
+        <th>Роль</th>
+        <th>Пользователь</th>      
+    </tr>
+    <tr >
+        <td>@Diplomka.Controllers.AccountController.Role</td>
+        <td>@Diplomka.Controllers.AccountController.UserName</td>  
+    </tr>              
+</table>
+<a href="/Account/Logout">Выход </a>
+</html>
